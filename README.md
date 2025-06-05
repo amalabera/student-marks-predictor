@@ -1,4 +1,4 @@
-# 📈 Student Marks Predictor
+# 📈🎯 Student Marks Predictor
 
 This project uses a Linear Regression model to predict student marks based on the number of hours they study.
 
@@ -6,7 +6,7 @@ This project uses a Linear Regression model to predict student marks based on th
 ![Colab](https://img.shields.io/badge/Colab-Google-yellow)
 ![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange)
 
-## 💡 Overview
+## ✨ Overview
 A beginner-friendly ML model that demonstrates how to predict exam scores using supervised learning. Built and tested using Google Colab.
 
 ## 🛠 Tech Stack
@@ -31,5 +31,5 @@ Predicted Marks: ~88.34
 
 ## 👩‍💻 Author
 **Amala Bera**  
-Data Engineer | AI Enthusiast  
+Data Analyst | AI Enthusiast  
 [GitHub](https://github.com/amalabera)
